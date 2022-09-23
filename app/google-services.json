@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "734607441233",
+    "firebase_url": "https://alvinsurya-326112-default-rtdb.firebaseio.com",
+    "project_id": "alvinsurya-326112",
+    "storage_bucket": "alvinsurya-326112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:feefd151c57724f56ae770",
+        "android_client_info": {
+          "package_name": "com.Alvin.Appx06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:b80e1e3b12e44a586ae770",
+        "android_client_info": {
+          "package_name": "com.alvin.appx06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:b26fc1c44aea1f1c6ae770",
+        "android_client_info": {
+          "package_name": "com.application.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:95c5fa3b099719326ae770",
+        "android_client_info": {
+          "package_name": "jaul.alvin.uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:93bd81ca4f8074466ae770",
+        "android_client_info": {
+          "package_name": "surya.alvin.appx02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:1d8ff7b742928aaf6ae770",
+        "android_client_info": {
+          "package_name": "surya.alvin.appx04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:b1a38210d8e6ea966ae770",
+        "android_client_info": {
+          "package_name": "surya.alvin.appx05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734607441233:android:b95a5cf26ef2b5626ae770",
+        "android_client_info": {
+          "package_name": "surya.alvin.appx07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1udugOLC00C_Yt_POkVZ9OX7PwCTyfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734607441233-2fo58hffl6te0567f0hf6npuc83qt4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
